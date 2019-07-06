@@ -24,6 +24,6 @@
   ###  Criando Novo Projeto
   Para iniciar um novo projeto usando o *Composer*, no seu diretório de preferência, use:
   
-  > composer create-project --prefer-dist laravel/lavavel [nome_do_projeto] [versão_do_laravel*]
+  > composer create-project --prefer-dist laravel/laravel [nome_do_projeto] [versão_do_laravel*]
   
   *A versão do lavarel é opcional.
