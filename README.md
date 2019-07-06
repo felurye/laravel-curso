@@ -1,4 +1,4 @@
-# Curso de Introdução ao Laravel (5.3) - GuiaCódigo
+# Curso de Introdução ao [Laravel](https://laravel.com/) (5.3) - GuiaCódigo
 
 * Instalar e configurar um projeto com Laravel
 * Trabalhar com Rotas do Laravel
@@ -15,7 +15,7 @@
   * Mbstring PHP *Extension*
   * Tokenizer PHP *Extension*
   
-###  Instalação do Composer
+###  Instalação do [Composer](https://getcomposer.org/)
   O *Composer* é um gerenciador de bibliotecas PHP, e será usando para configuração dos projetos.
   Para instalação do *Composer* use:
 
