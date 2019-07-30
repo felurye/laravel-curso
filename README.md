@@ -29,7 +29,7 @@
   *A versão do lavarel é opcional.
   
   ###  Rodando Servidor PHP
-  Para iniciar o servidor local PHP sem a necessidade de download de um servidor Apache, use:
+  Para iniciar o servidor local PHP sem a necessidade de download de um servidor Apache, entre no diretório que foi criado com as dependência do laravel e use:
   
   > php artisan serve 
   
