@@ -27,3 +27,11 @@
   > composer create-project --prefer-dist laravel/laravel [nome_do_projeto] [versão_do_laravel*]
   
   *A versão do lavarel é opcional.
+  
+  ###  Rodando Servidor PHP
+  Para iniciar o servidor local PHP sem a necessidade de download de um servidor Apache, use:
+  
+  > php artisan serve 
+  
+  Assim que executar esse comando será informado o local e a porta em que o servidor está rodando.
+ 
