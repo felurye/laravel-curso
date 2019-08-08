@@ -34,4 +34,15 @@
   > php artisan serve 
   
   Assim que executar esse comando será informado o local e a porta em que o servidor está rodando.
+  
+  
+  ### Comandos PHP
  
+  Para criar uma Controller:
+  > php artisan make:controller [nome_da_controller]
+  
+  Para criar um modelo: 
+  >php artisan make:model [nome_do_model]
+  
+  Para criar uma nova Classe Seeder:
+ >php artisan make:seeder
