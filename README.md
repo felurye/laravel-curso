@@ -1,4 +1,4 @@
-# Curso de Introdução ao [Laravel](https://laravel.com/) (5.3) - GuiaCódigo
+# Curso de Introdução ao [Laravel](https://laravel.com/) (5.3) - [GuiaCódigo](https://www.udemy.com/course/introducao-ao-laravel-53/)
 
 * Instalar e configurar um projeto com Laravel
 * Trabalhar com Rotas do Laravel
