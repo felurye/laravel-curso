@@ -1,4 +1,4 @@
-# Curso de Introdução ao [Laravel](https://laravel.com/) (5.3) - GuiaCódigo
+# Curso de Introdução ao [Laravel](https://laravel.com/) (5.3) - [GuiaCódigo](https://www.udemy.com/course/introducao-ao-laravel-53/)
 
 * Instalar e configurar um projeto com Laravel
 * Trabalhar com Rotas do Laravel
@@ -34,4 +34,15 @@
   > php artisan serve 
   
   Assim que executar esse comando será informado o local e a porta em que o servidor está rodando.
+  
+  
+  ### Comandos PHP
  
+  Para criar uma Controller:
+  > php artisan make:controller [nome_da_controller]
+  
+  Para criar um modelo: 
+  >php artisan make:model [nome_do_model]
+  
+  Para criar uma nova Classe Seeder:
+ >php artisan make:seeder
